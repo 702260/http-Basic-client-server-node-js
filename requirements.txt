@@ -1,0 +1,14 @@
+
+# Prerequisite 
+you should have node js installed on your machine.
+
+1.for ubuntu(linux) you can install using following command:-
+
+  sudo apt-get install node.js
+
+2. for windows and mac you can follow link below:-
+
+   (you dont need to install npm for this).
+
+  https://radixweb.com/blog/installing-npm-and-nodejs-on-windows-and-mac 
+  
